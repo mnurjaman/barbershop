@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/about"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical"
+        android:paddingStart="10dp">
+
+        <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="64dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/icon_arrow_back" />
+
+        <LinearLayout
+            android:id="@+id/tvbarbershop"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="125dp"
+        android:layout_marginBottom="169dp" />
+
+    <TextView
+        android:id="@+id/tvalamatlokasi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="350dp"
+        android:hint="Pandowo Harjo, Kecamatan Sleman,Kabupaten Sleman,Daerah Istimewa Yogyakarta."
+        android:textAlignment="center"
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvalamatlokasi"
+        android:layout_marginTop="280dp"
+        android:hint="Copyright © 2023 Tofik Hidayat"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/barbershop"
+        android:layout_width="319dp"
+        android:layout_height="65dp"
+        android:layout_below="@+id/about"
+        android:layout_alignBottom="@+id/tvalamatlokasi"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="61dp"
+        android:layout_marginTop="36dp"
+        android:layout_marginEnd="60dp"
+        android:layout_marginBottom="154dp"
+        android:fontFamily="@font/pbold"
+        android:text="Aplikasi Reservasi Online Barbershop Bedda Hair House"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="18dp" />
+
+</RelativeLayout>

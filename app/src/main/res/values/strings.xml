@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Bedda Barbershop</string>
+    <string name="history">History</string>
+    <string name="profil">profil</string>
+    <string name="mari_temukan_potongan_rambut_trending_anda_disini">Mari temukan potongan rambut trending anda disini</string>
+    <string name="temukan_barbershop_yang_nyaman_dan_ramah_dikantong_dengan_sekali_klik">Temukan barbershop yang nyaman dan ramah dikantong dengan sekali klik</string>
+    <string name="get_started">Get Started</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="logo">logo</string>
+    <string name="home">Home</string>
+    <string name="reservasi">Reservasi</string>
+    <string name="histori">histori</string>
+
+    <string name="jenis_layanan">Pilih Layanan</string>
+
+    <string-array name="pilih_layanan">
+        <item>Hair Cut 30K</item>
+        <item>Hair Color 200K</item>
+    </string-array>
+
+    <string name="haircut">Haircut</string>
+    <string name="haircolor">Haircolor</string>
+
+</resources>
