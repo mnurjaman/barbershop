@@ -22,7 +22,7 @@
 - Users can browse services, select available time slots, and book reservations.
 - Receive confirmation notifications for successful reservations.
   
-- #### Request Hairstyle Feature:
+#### Request Hairstyle Feature:
 - Customers can upload reference images or describe their desired hairstyle.
 - Barber can view and confirm the style request during the reservation.
 
