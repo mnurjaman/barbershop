@@ -1,4 +1,4 @@
-# Bedda Hair House
+# CLIENT : Bedda Hair House
 
 **Bedda Hair House** Bedda Hair House is a mobile application designed to simplify the customer experience for booking reservations, checking schedules, and completing payments at their favorite barbershop. This project aims to provide a modern, efficient, and user-friendly grooming service platform.
 
