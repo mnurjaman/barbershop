@@ -19,8 +19,8 @@
  - Support for new user registration with email verification.
 
 - **Reservation System**:
-- Users can browse services, select available time slots, and book reservations.
-- Receive confirmation notifications for successful reservations.
+-- Users can browse services, select available time slots, and book reservations.
+-- Receive confirmation notifications for successful reservations.
 Payment System:
  
 - **Payment System**: 
