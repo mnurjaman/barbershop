@@ -46,7 +46,6 @@ To get started with the project locally, follow these steps:
    ```bash
    cd barbershop
 
-
 ### Technologies Used:
 - **Java/Kotlin**: Core languages for Android app development.
 - **Firebase Authentication**: Secure login and registration.
