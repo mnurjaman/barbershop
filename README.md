@@ -14,12 +14,12 @@
 - **Authentication**: Firebase
 
 ### Main Features:
-- **Login & User Authentication**:
- - Secure login system with encrypted credentials via Firebase Authentication.
- - Support for new user registration with email verification.
+# **Login & User Authentication**:
+- Secure login system with encrypted credentials via Firebase Authentication.
+- Support for new user registration with email verification.
 
 - **Reservation System**:
--- Users can browse services, select available time slots, and book reservations.
+- Users can browse services, select available time slots, and book reservations.
 -- Receive confirmation notifications for successful reservations.
 Payment System:
  
